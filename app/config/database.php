@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'seospider_web',
-			'username'  => 'xlavecat',
-			'password'  => 'dM0dF3r21.@',
+			'database'  => 'crawler',
+			'username'  => 'crawler',
+			'password'  => 'crawler',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
